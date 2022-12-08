@@ -4,7 +4,7 @@ public class Vaga extends Status {
     private Integer codigoVaga;
     private String descVaga;
     private String descRequisitos;
-
+    //testes
     public Integer getCodigoVaga() {
         return codigoVaga;
     }
